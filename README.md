@@ -1,2 +1,2 @@
 # ax-news
-AX news service on kakao
+AX news service on kakao-talk
